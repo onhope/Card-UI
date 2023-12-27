@@ -31,6 +31,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
+  /* 중앙 정렬 맞추기 위해 */
   margin-left: -54px;
   margin-top: -48px;
   color: white;
